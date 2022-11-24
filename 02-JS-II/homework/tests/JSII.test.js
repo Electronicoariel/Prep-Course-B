@@ -76,7 +76,7 @@ const {
       expect(sonIguales('test', 'test')).toBe(true);
     });
   });
-  
+  //dddd
   describe('tienenMismaLongitud(str1, str2)', function() {
     it('Deberia devolver true si los strings tienen la misma longitud y sino false', function() {
       expect(tienenMismaLongitud('hi', 'there')).toBe(false);
